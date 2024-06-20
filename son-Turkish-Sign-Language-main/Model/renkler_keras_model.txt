@@ -1,0 +1,3 @@
+0 lacivert
+1 pembe
+2 kahverengi
